@@ -1,0 +1,107 @@
+body{
+	background: #026f69;
+	color: white;
+
+}
+a{
+	color: white;
+}
+.jumbotron p{
+	font-size: 15px;
+}
+.navbar-default {
+    background-color: #00514c;
+    border-color: #00514c;
+}
+.navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:focus, .navbar-default .navbar-nav > .active > a:hover {
+    color: white;
+    background-color: #026f69;
+    border-radius: 15px;
+}
+.navbar li{
+	margin: 5px;
+}
+.navbar-default .navbar-nav > li > a {
+    color: white;
+    font-size: 15px;
+    font-weight: 600;
+}
+.navbar-default .navbar-nav > li > a:focus, .navbar-default .navbar-nav > li > a:hover {
+    color: white;
+    background-color: #026f69;
+   border-radius: 15px;
+}
+.jumbotron{
+	background: #00514c;
+}
+#fulldiv{
+	margin-top: 7rem;
+}
+#content{
+	background: white;
+	color: black;
+}
+#spacing{
+margin-bottom: 10%;
+margin-top: 5%;
+}
+#spacing img{
+	padding: 2%;
+}
+.footer{
+	background: #00514c;
+	padding-top: 2%;
+}
+.footerul{
+	list-style: none;
+	text-align: center;
+	margin: 0px;
+padding: 0px;
+}
+.footerul li{
+	 margin: 0 10px; 
+	 display: inline;
+}
+.footerul li>a{
+color: white;
+}
+.socialicon{
+list-style: none;
+text-align: center;
+margin: 0px;
+padding: 0px;
+
+}
+.socialicon li{
+ margin: 0 10px; 
+display: inline;
+}
+.socialicon li>a{
+ font-size: 50px;
+ color: white;
+}
+#carousel{
+padding: 2rem;
+}
+.website img{
+padding: 1rem;
+}
+.jumbotron img{
+	width: 150px;
+height: 150px;
+border-radius: 100%;
+}
+.img-thumbnail{
+margin-top: 2rem;
+}
+.sociltxt{
+	text-align: center;
+	margin-top: 5rem;
+}
+.skills img{
+padding: 0.5rem;
+}
+.contact{
+	margin-top: 10rem;
+margin-bottom: 10rem;
+}

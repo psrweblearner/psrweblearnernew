@@ -1,0 +1,15 @@
+.market-update-left{
+	margin-left: 0;
+text-align: center;
+width: 100% !important;
+}
+.footer{
+	padding: 0px;
+}
+.market-update-block{
+	padding: 0em 0em;
+}
+.market-update-left .fa{
+	font-size: 8.8em;
+	color: #fff3;
+}
